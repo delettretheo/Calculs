@@ -3,6 +3,7 @@
  * author : Emds
  * date : 24/05/2020
  */
+// :-)
 using System;
 
 namespace Calculs
